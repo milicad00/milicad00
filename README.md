@@ -10,4 +10,4 @@ My name is Milica Drača and this is a place where i keep all my projects! 😊
  
  <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milicad00)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milicad00&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
