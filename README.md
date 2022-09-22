@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Milica Drača and this is a place where i keep all my projects! 😊
+My name is Milica Drača and this is a place where I keep all my projects! 😊
 
- I'm interested in Web development, responsive design and Native and Cross-platform mobile applications development. Also, I'm interested in UI and UX design as well as making applications accessible for different types of users. I'm researching about fine grained reactivity in JavaScript and performance optimization of front end applications.
+I'm interested in Web development, responsive design and Native and Cross-platform mobile application development. I'm also interested in UI and UX design as well as making applications accessible for different types of users. Fine-grained JavaScript reactivity and performance optimization of frontend applications are currently my main research fields.
  
  <hr/>
  
 ### ✏️ Some facts about me
- - 📖 I'm a 4th year student pursuing a Bachelor's deegre in Electrical and Computer Engineering.
+ - 📖 I'm a 4th year student pursuing a Bachelor's degree in Electrical and Computer Engineering.
  - 🔭 I’m currently working on: Learning about SolidJS and efficient reactivity of JavaScript
  - 📫 Reach out to me on email draca.sw18.2019@uns.ac.rs
  - ⚡  Fun fact: I love 📚, 🎮, 🐈 and ☕
